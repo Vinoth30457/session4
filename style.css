@@ -91,7 +91,7 @@ header{
   
 .main{
      margin: 0px 30px;
-     background:url("/session4/image/image3.png");
+     background:url("image3.png");
      background-repeat: no-repeat;
      border-radius: 15px;
      background-size: cover;
@@ -224,7 +224,7 @@ header{
     margin: auto;
 }
 .box5{
-    background-image: url(/session4/image/image11.png);
+    background-image: url(image11.png);
     background-repeat: no-repeat;
     background-size: contain;
    
